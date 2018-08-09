@@ -18,3 +18,5 @@ C. ```if (length! = 75) { // Some block of code to execute }```
 D. ```if (length == "75") { // Some block of code to execute }```
 
 the correct answers are A and B. almost tricked me on D but i caught that "" that doesnt go on the integer.
+
+<!-- Not correct. It's B and D -->
